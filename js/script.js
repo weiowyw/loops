@@ -54,3 +54,4 @@
 // const splitIntoNewArray = (string) => string.split(' ');
 //
 // console.log(splitIntoNewArray(str));
+//
